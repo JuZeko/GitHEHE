@@ -1,1 +1,5 @@
-# GitHEHE NBA
+# GitHEHE NBAdsadasda
+
+git add .
+git commit -m "message"
+git push 
